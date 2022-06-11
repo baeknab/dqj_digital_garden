@@ -10,7 +10,7 @@ comments: true
 
 [[옵시디언]]
 
-[[_notes/옵시디언|url]]
+[[옵시디언|url]]
 
 [[작성중]]
 
