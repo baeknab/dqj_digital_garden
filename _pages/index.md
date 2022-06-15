@@ -14,7 +14,7 @@ comments: true
 
 [[작성중]]
 
-[[20220612001022872|벌진자크]]
+[[20220612001022872|obsidian으로 묶어놓은 글 netlify에 publish 하기]]
 
 disqus 댓글 테스트
 
