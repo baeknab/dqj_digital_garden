@@ -1,8 +1,9 @@
 ---
 layout: note
-title: 옵시디언 관련 글 모음과지킬 
+title: 옵시디언 관련 글 모음
 comments: true
-alias: url
+alias: 옵시디언 관련 글 모음
+permalink: /iop
 ---
 # 페이지 제작방법
 
