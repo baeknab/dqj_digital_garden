@@ -1,7 +1,6 @@
 ---
 layout: page
 title: About
-permalink: /about
 ---
 
 [dq](https://dqj.notion.site/e0bf164fb4ae4cd5baed1baf96990cb8)의 디지털가든입니다.
