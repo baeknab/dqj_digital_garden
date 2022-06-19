@@ -3,7 +3,6 @@ layout: note
 title: 옵시디언 관련 글 모음
 comments: true
 alias: 옵시디언 관련 글 모음
-permalink: /iop
 ---
 # 페이지 제작방법
 

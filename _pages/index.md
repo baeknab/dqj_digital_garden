@@ -8,7 +8,7 @@ comments: true
 
 # Welcome! 🌱
 
-[[_notes/obsidian|옵시디언 관련 글 모음]]
+[[obsidian|옵시디언 관련 글 모음]]
 
 
 
